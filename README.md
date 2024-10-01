@@ -2,7 +2,6 @@
 # (BETA) IndieI: The AI Helper
 ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpyOWV0NDZnaWpxazUycmxoa3J0ZHptZDUyMXg1YzBqczUxemo3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PDvpg23RRZYWjGhQB/giphy.gif)
 
-Here’s how the README structure will look with the added **Warning** section:
 
 ---
 
