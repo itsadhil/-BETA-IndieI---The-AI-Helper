@@ -79,7 +79,7 @@ Follow these steps to run and interact with the AI-powered chatbot:
 1. **Clone the Repository**:
    - Clone this repository to your local machine using:
      ```bash
-     git clone https://github.com/your-repo/your-project.git
+     git clone https://github.com/itsadhil/-BETA-IndieI---The-AI-Helper
      ```
 
 2. **Install Dependencies**:
