@@ -96,7 +96,7 @@ Follow these steps to run and interact with the AI-powered chatbot:
 3. **Run the Backend API**:
    - Start the FastAPI backend server, which handles the web scraping, LinkedIn profile fetching, and LinkedIn posting features. Make sure to run all required Python scripts to ensure the API functions correctly.
      ```bash
-     uvicorn main:app --reload --host 0.0.0.0 --port 9090
+     uvicorn main:app --reload
      ```
    - Ensure that `main.py` and other relevant Python scripts are running for the API to work.
 
